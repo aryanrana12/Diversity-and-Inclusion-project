@@ -38,7 +38,6 @@ The dataset includes HR records on:
 ## 🚀 Conclusion  
 This Power BI dashboard helps HR teams make **data-driven decisions** to enhance **diversity, equity, and inclusion** strategies in the workplace.  
 
-## 📷 Dashboard Preview  
 https://github.com/aryanrana12/Diversity-and-Inclusion-project/blob/33e1b00fa31713d28d3ed45a525e4053536a86c7/Screenshot%202025-02-25%20034551.png
 
 
