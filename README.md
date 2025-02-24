@@ -1,4 +1,4 @@
-# HR Analytics – Diversity & Inclusion Dashboard (Power BI)
+# HR Analytics – Diversity & Inclusion Report (Power BI)
 
 ## 📌 Project Overview  
 This project analyzes **HR diversity and inclusion metrics** using **Power BI**, focusing on **hiring trends, promotions, turnover rates, and performance ratings**. The goal is to provide **data-driven insights** to help HR teams improve **gender balance and retention strategies**.
