@@ -9,7 +9,7 @@ This project analyzes **HR diversity and inclusion metrics** using **Power BI**,
 - **Data Modeling** – Relationships and transformations  
 - **DAX (Data Analysis Expressions)** – Custom measures and KPIs  
 
-## 📂 Dataset  
+## 📂 Dataset  https://github.com/aryanrana12/Diversity-and-Inclusion-project/blob/6dafbbdc7b3dba34268881edf0fcba7ca58e12bd/03%20Diversity-Inclusion-Dataset.xlsx
 The dataset includes HR records on:  
 - **Hiring distribution by gender and job level**  
 - **Promotion trends across different roles**  
